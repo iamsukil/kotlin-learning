@@ -5,8 +5,8 @@ Kotlin basics and Android Studio practice.
 ## Kotlin Basics
 
 - [x] Variables - val and var
-- [ ] Data Types
-- [ ] String Basics
+- [x] Data Types
+- [x] String Basics
 - [ ] Operators
 - [ ] If / Else
 - [ ] When
