@@ -11,9 +11,9 @@ Kotlin basics and Android Studio practice.
 - [x] If / Else
 - [x] When
 - [x] Loops
-- [ ] Functions
-- [ ] Null Safety
-- [ ] Classes and Objects
+- [x] Functions
+- [x] Null Safety
+- [x] Classes and Objects
 - [ ] Basic Inheritance
 - [ ] Basic Interfaces
 - [ ] Basic Collections
