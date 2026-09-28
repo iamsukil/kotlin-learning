@@ -20,5 +20,5 @@ Kotlin basics and Android Studio practice.
 
 ## Android
 
-- [ ] Android Studio
+- [x] Android Studio
 - [ ] Jetpack Compose
