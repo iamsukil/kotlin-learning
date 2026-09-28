@@ -7,10 +7,10 @@ Kotlin basics and Android Studio practice.
 - [x] Variables - val and var
 - [x] Data Types
 - [x] String Basics
-- [ ] Operators
-- [ ] If / Else
-- [ ] When
-- [ ] Loops
+- [x] Operators
+- [x] If / Else
+- [x] When
+- [x] Loops
 - [ ] Functions
 - [ ] Null Safety
 - [ ] Classes and Objects
