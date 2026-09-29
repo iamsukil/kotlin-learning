@@ -14,9 +14,9 @@ Kotlin basics and Android Studio practice.
 - [x] Functions
 - [x] Null Safety
 - [x] Classes and Objects
-- [ ] Basic Inheritance
-- [ ] Basic Interfaces
-- [ ] Basic Collections
+- [x] Basic Inheritance
+- [x] Basic Interfaces
+- [x] Basic Collections
 
 ## Android
 
